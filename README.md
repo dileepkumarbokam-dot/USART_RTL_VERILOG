@@ -223,7 +223,7 @@ This project demonstrates practical RTL design concepts including:
 
 ## Author
 
-**Venkata Lakshmi**
+**BOKAM DILEEP KUMAR**
 
 Electronics and Communication Engineering
 
